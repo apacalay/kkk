@@ -1,4 +1,4 @@
-@import "https://omgdani.github.io/ClearVisionFixes/ClearVisionFixes.css";
+@import "https://raw.githubusercontent.com/apacalay/kkk/master/ClearVisionFixes.css";
 .channels-wrap > [class*="container"]:last-child::after{
     content:"ClearVision v5.2.5";
     color:#fff;
